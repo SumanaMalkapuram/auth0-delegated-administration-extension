@@ -1,6 +1,6 @@
 {
   "title": "Delegated Administration Dashboard",
-  "name": "auth0-delegated-admin",
+  "name": "sumanas-delegated-admin",
   "version": "3.4.1",
   "author": "Sumana",
   "useHashName": false,
