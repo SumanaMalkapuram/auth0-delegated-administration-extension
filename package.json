@@ -1,7 +1,7 @@
 {
   "name": "sumanas-delegated-admin",
   "version": "3.4.1",
-  "description": "Delegated Administration Dashboard",
+  "description": "Delegated Administration Dashboard - Sumanas",
   "engines": {
     "node": ">8.9"
   },
